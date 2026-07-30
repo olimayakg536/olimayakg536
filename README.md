@@ -81,7 +81,7 @@ Real-time face mask recognition system built with **Python, OpenCV, TensorFlow, 
 #### 🍎 [Smart Food Freshness Label System](#) — *Dec 2024*
 IoT-based food quality monitor using **Arduino/PIC, MQ gas sensors, and temperature/humidity sensors** to detect spoilage and trigger real-time visual alerts.
 
-> 💡 *Update the links above (#) with your actual GitHub repo URLs for each project.*
+
 
 ---
 
